@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Large data files (optional)
+*.pkl
+*.h5
+*.pt
+*.joblib
